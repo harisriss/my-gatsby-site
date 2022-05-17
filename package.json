@@ -14,8 +14,18 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@chakra-ui/gatsby-plugin": "^3.0.0",
+    "@chakra-ui/react": "^2.0.0",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "framer-motion": "^6.3.3",
     "gatsby": "^4.13.1",
+    "gatsby-plugin-sass": "^5.13.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-redux": "^8.0.1",
+    "redux": "^4.2.0",
+    "sass": "^1.51.0",
+    "styled-components": "^5.3.5"
   }
 }

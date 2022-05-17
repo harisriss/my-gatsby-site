@@ -1,0 +1,24 @@
+.ligne {
+  display: flex;
+  padding-top: 1em;
+}
+
+.compteur {
+  justify-content: flex-start;
+  font-size: 7em;
+}
+
+.divBoutton {
+  justify-content: flex-end;
+  padding-left: 2em;
+  font-size: 1em;
+}
+
+.bouton{
+  font-size: 1em;
+  margin: 0.25em;
+  padding: 0.25em 1em;
+  background-color: #97e597;
+  float: left;
+  clear: left;
+}
